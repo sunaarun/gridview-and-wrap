@@ -1,6 +1,7 @@
 # gridview_wrap_example
 
-A new Flutter project.
+A new Flutter project that uses GridView and Wrap, you can watch the episode here : https://youtu.be/le9Opjk0uBQ
+
 
 ## Getting Started
 
